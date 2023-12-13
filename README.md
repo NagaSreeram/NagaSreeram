@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NagaSreeram, the backend maestro weaving digital spells with code! your friendly neighborhood backend developer!
+- 👀 I’m interested in the mystical realms of Java sorcery, Java8 enchantments, and the sacred art of Data Structures and Algorithms – my secret weapons in the quest for optimal solutions.
+- 🌱 I’m currently on an epic quest to master the intricacies of Microservices architecture, adding more spells to my arsenal to tame the wild beasts of scalability.
+- 💞️ I’m seeking fellow wizards and enchantresses to join forces on daring quests, where we can collaborate on conjuring powerful backend spells using Java, Spring Boot, Microservices, and the ancient scrolls of DSA.
+- 📫 How to reach this code wizard? Send a magical scroll through GitHub (@NagaSreeram) and let's create spells that resonate through the digital realms!
